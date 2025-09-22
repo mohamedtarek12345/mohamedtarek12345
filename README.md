@@ -37,7 +37,7 @@ _"Don’t just deploy infrastructure — design it to last."_
 <!-- markdownlint-disable-next-line MD033 -->
 ## 📫 <ins>Connect with Me</ins>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](www.linkedin.com/in/mohamedtarek1999) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mohamed.tarek.osman1999@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](http://www.linkedin.com/in/mohamedtarek1999) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mohamed.tarek.osman1999@gmail.com)
 
 ---
 <!-- markdownlint-disable-next-line MD033 -->
