@@ -1,5 +1,5 @@
 <!-- markdownlint-disable-next-line MD041 -->
-![Banner](.\Images\bannar.png)
+![Banner](./blob/main/assets/images/banner.png)
 
 <!-- markdownlint-disable-next-line MD033 -->
 ## 👨‍💻 <ins>About Me</ins>
