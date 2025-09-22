@@ -41,7 +41,7 @@ _"Don’t just deploy infrastructure — design it to last."_
 
 ---
 <!-- markdownlint-disable-next-line MD033 -->
-## ⚙️ <ins>Tech Stack and Roadmap</ins>
+## ⚙️ <ins>Tech Stack and Future Roadmap</ins>
 
 | 🏷️ Category | 🚀 Tech Stack | 📖 Current Learning | 🎯 Future Steps |
 |-------------|---------------|---------------------|-----------------|
