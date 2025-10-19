@@ -76,61 +76,21 @@ _"Don’t just deploy infrastructure — design it to last."_
 <!-- markdownlint-disable-next-line MD033 -->
 ## 📄 <ins>Skills</ins>
 
-- Managing Agile workflows (Scrum & Kanban) using Jira, ClickUp, and Azure Boards — including backlog refinement, sprint planning, and custom workflow automation for DevOps tasks.
-- Integrating project management tools with CI/CD pipelines (Azure Pipelines, GitHub Actions, Jenkins) and version control systems (GitHub, GitLab, Azure Repos) to enable automated ticket updates, deployment tracking, and incident reporting.
-- Designing dashboards and reports (Jira JQL, Azure Boards WIQL, ClickUp dashboards) to track DevOps performance metrics (DORA, MTTR, lead time, sprint velocity) and provide actionable insights for continuous improvement.
-- Developing automation scripts for Linux (Bash) and Windows (PowerShell) environments, handling system configuration, service management, user provisioning, and scheduled tasks to reduce manual operations by 60%.
-- Building Python scripts to interact with REST APIs (Azure, GitHub, Jira), automate CI/CD workflows, parse configuration files (YAML/JSON), and integrate monitoring/alerting systems for faster incident response.
-- Integrating Bash, PowerShell, and Python scripts into CI/CD pipelines (Jenkins, GitHub Actions, Azure Pipelines) for automated testing, deployments, and compliance checks, ensuring consistency across multi-cloud environments.
-- Designing lightweight CLI tools and Kubernetes automation utilities using Go, leveraging concurrency and APIs to extend DevOps workflows and improve scalability in cloud-native environments.
-- Managing and automating Linux servers (RHEL, Ubuntu) with expertise in package management, systemd services, user/group administration, LVM storage, firewall configuration, and SELinux/AppArmor security hardening.
-- Administering Windows Server environments including Active Directory (users, groups, GPOs), DNS/DHCP, IIS web hosting, and file services with NTFS permissions, ensuring secure and scalable enterprise infrastructure.
-- Developing Bash, Python, and PowerShell scripts to automate system provisioning, patching, and monitoring across Linux and Windows, reducing manual operations and improving system reliability.
-- Configuring and optimizing RHEL, Ubuntu, and Windows Server instances for cloud platforms (Azure, AWS) and containerized workloads (Docker, Kubernetes), enabling hybrid and cloud-native DevOps solutions.
-- Configuring and managing Nginx and IIS web servers for hosting applications, implementing reverse proxies, SSL/TLS encryption, load balancing, and performance optimization to ensure secure and high-availability services.
-- Deploying and managing applications on Azure App Services with CI/CD pipelines (GitHub Actions, Azure Pipelines), implementing slot swaps, autoscaling, VNet integration, and monitoring with Application Insights.
-- Implementing security best practices (TLS/SSL, firewalls, access controls) and configuring logging/monitoring (Nginx logs, IIS logs, Azure Monitor) to improve observability, incident response, and compliance across web environments.
-- Managing and securing artifact repositories using Nexus and Azure Artifacts, including hosting, versioning, and promoting build artifacts (Docker images, NuGet, npm, Maven, Python packages) across dev, staging, and production environments.
-- Automating artifact publishing and consumption within CI/CD pipelines (Azure Pipelines, Jenkins, GitHub Actions), implementing retention policies, access controls, and private container registries to ensure reliable and traceable software delivery.
-- Implementing centralized secrets management using Azure Key Vault and HashiCorp Vault to securely store and rotate credentials, certificates, and connection strings for applications, services, and infrastructure.
-- Integrating secrets management into CI/CD pipelines (Azure DevOps, GitHub Actions, Jenkins) to eliminate hard-coded secrets, enforce RBAC, enable dynamic secret provisioning, and support compliance/security standards (e.g., GDPR, ISO 27001).
-- Integrating SonarQube into CI/CD pipelines to enforce coding standards, detect vulnerabilities, and track technical debt for continuous improvement.
-- Implementing unit, integration, and regression testing with automated quality gates to block low-quality builds before release.
-- Configuring test coverage reporting and dashboards to provide real-time insights into code health, reducing production defects and improving developer feedback loops.
-- Deploying and configuring Prometheus to collect and analyze application, container, and infrastructure metrics with custom exporters and alerting rules.
-- Implementing centralized log aggregation using Grafana Loki to streamline troubleshooting, enable structured log management, and reduce MTTR.
-- Building real-time Grafana dashboards and proactive alerting pipelines integrated with Slack/Teams for faster incident response and service reliability.
-- Automating provisioning and configuration of Azure SQL, MySQL, and PostgreSQL databases using Terraform and CI/CD pipelines for consistency and scalability.
-- Implementing automated backup strategies and tested recovery workflows to ensure high availability and business continuity for production databases.
-- Monitoring database performance with Azure Monitor and Grafana, optimizing queries, indexes, and scaling strategies to improve application reliability.
-- Automating provisioning of Azure infrastructure resources (VNets, Subnets, NSGs, VMs, Storage) using Terraform and Bicep for consistency and repeatability.
-- Deploying and managing Azure Virtual Machines, VM Scale Sets, and App Services with autoscaling and cost optimization strategies.
-- Configuring VNets, Subnets, Load Balancers, and VPN Gateways with hybrid connectivity solutions such as ExpressRoute and VNet Peering.
-- Managing Blob Storage, File Shares, and Disks with redundancy (LRS/GRS/ZRS) and secured access via Private Endpoints and Managed Identities.
-- Implementing RBAC, Conditional Access policies, and Key Vault integration for secure access control and secrets management.
-- Configuring Azure Monitor, Log Analytics, and Defender for Cloud with Azure Policy and cost management to enforce governance and compliance.
-- Configuring Istio and Consul for service discovery, intelligent traffic routing (canary, blue-green), and zero-downtime deployments in Kubernetes environments.
-- Implementing zero-trust networking with mTLS, RBAC, and API gateway policies to secure microservices communication across clusters.
-- Integrating Istio/Consul with Prometheus, Grafana, and OpenTelemetry for distributed tracing, while enabling retries, circuit breakers, and fault injection for resilience.
-- Designing and implementing GitOps workflows using Flux CD to manage Kubernetes infrastructure and applications declaratively with Git as the single source of truth.
-- Configuring Flux CD to automate deployments, enable drift detection, and ensure cluster state reconciliation across multiple environments.
-- Managing Kubernetes workloads via GitOps pipelines by integrating Flux CD with Helm charts, Kustomize, and YAML manifests for scalable and reliable delivery.
-- Designing and deploying Azure cloud infrastructure using Terraform with reusable, modular templates for scalable and consistent environments.
-- Automating OS and application configurations across Linux (Ansible) and Windows (PowerShell DSC) to enforce desired state and reduce manual errors.
-- Developing Azure CLI and PowerShell scripts to automate resource provisioning, scaling, and identity management across multiple environments.
-- Integrating Terraform, Ansible, and automation scripts into Azure DevOps pipelines to enable fully automated provisioning and configuration workflows.
-- Implementing policy-driven IaC with drift detection, tagging standards, and RBAC to ensure security, compliance, and governance across cloud environments.
-- Implementing Trivy in CI/CD pipelines (GitHub Actions, Azure DevOps, Jenkins) for continuous vulnerability assessment and compliance enforcement.
-- Scanning Docker images, Kubernetes manifests, and Terraform code for vulnerabilities, misconfigurations, and secrets to maintain secure deployments.
-- Building, securing, and optimizing lightweight containerized applications for consistent multi-environment deployments.
-- Deploying, scaling, and managing workloads across Kubernetes clusters, including RBAC, namespaces, and networking policies.
-- Writing and managing Helm charts to simplify Kubernetes application deployment and versioning.
-- Managing Red Hat OpenShift environments, integrating CI/CD pipelines, and enabling enterprise-grade security.
-- Automating container lifecycle management with Kubernetes-native tools, ensuring scalability, resilience, and observability.
-- Integrating Git-based repositories with Azure Pipelines, GitHub Actions, and GitLab CI/CD for automated deployments.
-- Implementing commit signing, branch protection, and secret scanning to maintain secure repositories.
-- Handling branch policies, code reviews, and resolving merge conflicts in team environments.
-- Applying Git fundamentals and workflows using GitHub, GitLab, Azure Repos, and Bitbucket.
-- delivering documentation using Git and Markdown, including README files, and wikis.
+- Automated cloud operations and CI/CD across Linux, Windows, and serverless environments using Bash, PowerShell, Python, Go, and TypeScript, cutting manual effort by 70% and provisioning time from hours to minutes—enforcing security via script-driven, self-service guardrails.
+- Built secure, scalable CI/CD and GitOps pipelines with Jenkins, GitHub Actions, Azure DevOps, GitLab, and Argo CD, enabling zero-touch deployments across Azure and Kubernetes, slashing release lead time by 50%, and ensuring compliance via policy-as-code and full audit trails.
+- Architected containerized platforms using Docker, Kubernetes (AKS/OpenShift), Helm, and Azure Container Apps, integrating ACR, image scanning, and GitOps to reduce infrastructure costs by 35% through intelligent scaling.
+- Designed secure, observable Azure solutions using ARM/Bicep, Terraform, Azure CLI, AKS, and Azure Monitor, cutting deployment failures by 40% and enabling cost-optimized, compliant hybrid infrastructure.
+- Enforced compliant, drift-free cloud environments via Terraform, Ansible, Bicep, and Azure Policy, reducing provisioning time by 80% and ensuring 100% audit readiness across multi-tenant workloads through Git-managed IaC.
+- Championed Git-based DevOps discipline—implementing trunk-based development, GitOps, and IaC versioning—reducing configuration drift by 60% and accelerating secure delivery.
+- Unified agile planning and DevOps workflows by integrating Jira, Azure Boards, ClickUp, and Notion, boosting release velocity by 30% with end-to-end traceability and audit-ready visibility.
+- Implemented Istio and Consul service meshes to enforce zero-trust security, enable canary deployments, and provide end-to-end observability across Kubernetes clusters—boosting microservices reliability and compliance in cloud-native environments.
+- Automated provisioning, schema deployment, and monitoring of cloud SQL platforms (Azure SQL, PostgreSQL, MySQL, MS SQL) via IaC and CI/CD—ensuring high availability, secure access, and zero-downtime database operations in scalable cloud environments.
+- Deployed and integrated Prometheus, Grafana, Loki, and ELK Stack to deliver unified observability across cloud and Kubernetes environments—enabling real-time monitoring, log correlation, and proactive incident response with reduced MTTR.
+- Integrated Trivy, SonarQube, HashiCorp Vault, and Azure Key Vault into CI/CD to enforce code quality, scan for vulnerabilities, and manage secrets—strengthening security posture across cloud-native DevOps pipelines.
+- Automated deployment and configuration of NGINX and IIS as reverse proxies and web servers—enabling secure, scalable application delivery across Linux and Windows workloads in hybrid cloud environments.
+- Communication, problem-solving, teamwork, collaboration, adaptability, growth mindset, Troubleshooting, attention to detail, and the ability to manage multiple tasks simultaneously.
+- Managed build artifacts and dependencies using Nexus and Azure Artifacts—ensuring secure, versioned, and traceable package delivery across CI/CD pipelines in hybrid and cloud-native DevOps environments.
+- Automated provisioning, hardening, and management of Linux, RHEL, and Windows systems across cloud and hybrid environments—ensuring secure, compliant, and high-performance infrastructure for diverse application workloads.
+- Leveraged Git, Markdown, and Mermaid to maintain living documentation, architecture diagrams, and runbooks—ensuring transparent, version-controlled knowledge sharing across DevOps and cloud engineering teams. 
 
 ---
